@@ -183,7 +183,7 @@ body{
 }
 
 /* Dispositivos móveis com largura entre 480 e 767 pixels */
-@media (min-width: 480px) and (max-width: 767px) {
+@media (min-width: 480px) and (max-width: 819px) {
   /* Estilos para dispositivos móveis médios */
   .BasePerfil {
     display: block;
