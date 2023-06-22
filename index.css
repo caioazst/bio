@@ -151,7 +151,8 @@ body{
 
   .nome{
     font-size: 80px;
-    padding-top: 15px;
+    padding-top: 0;
+    margin: 20px;
   }
 
   .areas{
